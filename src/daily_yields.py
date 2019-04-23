@@ -4,7 +4,7 @@ from inverted_yield_curves.src.yield_curve_day import YieldCurve_Daily
 from inverted_yield_curves.src.projection_check import RecessionProjection
 
 series = []
-treasury_yield_csv_path = "/home/aparsons/Development/econ_490/irp/inverted_yield_curves/data/daily/Treasury_Yields_from_2002_1mo-30yr.csv"
+treasury_yield_csv_path = os.path.join(os.getcwd(), "inverted_yield_curves/data/daily/Treasury_Yields_from_2002_1mo-30yr.csv")
 with open(treasury_yield_csv_path, newline='') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=',')
     next(csvreader)

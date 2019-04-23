@@ -4,7 +4,7 @@ from inverted_yield_curves.src.yield_curve_month import YieldCurve_Monthly
 from inverted_yield_curves.src.projection_check import RecessionProjection
 
 series = []
-treasury_yield_csv_path = "/home/aparsons/Development/econ_490/irp/inverted_yield_curves/data/monthly/Monthly_CMT_1953.csv"
+treasury_yield_csv_path = os.path.join(os.getcwd(), "inverted_yield_curves/data/monthly/Monthly_CMT_1953.csv")
 with open(treasury_yield_csv_path, newline='') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=',')
     next(csvreader)

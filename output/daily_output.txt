@@ -1,0 +1,3747 @@
+Yield Curve Date           : 2005-10-05  @  0
+Projected Recession Start  : 2007-10-05
+Projected Recession End    : 2008-10-04
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 57 days, 0:00:00
+Proj. vs. Actual End Diff  : 240 days, 0:00:00
+Projected / Actual Overlap : 308 days
+Misaligned Recn Prediction : 56% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-11-28  @  0
+Projected Recession Start  : 2007-11-28
+Projected Recession End    : 2008-11-27
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 3 days, 0:00:00
+Proj. vs. Actual End Diff  : 186 days, 0:00:00
+Projected / Actual Overlap : 362 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-11-30  @  1
+Projected Recession Start  : 2007-11-30
+Projected Recession End    : 2008-11-29
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 1 day, 0:00:00
+Proj. vs. Actual End Diff  : 184 days, 0:00:00
+Projected / Actual Overlap : 364 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-01  @  1
+Projected Recession Start  : 2007-12-01
+Projected Recession End    : 2008-11-30
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Exact start prediction     : 0:00:00
+Proj. vs. Actual End Diff  : 183 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-06  @  0
+Projected Recession Start  : 2007-12-06
+Projected Recession End    : 2008-12-05
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -5 days, 0:00:00
+Proj. vs. Actual End Diff  : 178 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-08  @  0
+Projected Recession Start  : 2007-12-08
+Projected Recession End    : 2008-12-07
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -7 days, 0:00:00
+Proj. vs. Actual End Diff  : 176 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-14  @  0
+Projected Recession Start  : 2007-12-14
+Projected Recession End    : 2008-12-13
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -13 days, 0:00:00
+Proj. vs. Actual End Diff  : 170 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-16  @  0
+Projected Recession Start  : 2007-12-16
+Projected Recession End    : 2008-12-15
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -15 days, 0:00:00
+Proj. vs. Actual End Diff  : 168 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-19  @  0
+Projected Recession Start  : 2007-12-19
+Projected Recession End    : 2008-12-18
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -18 days, 0:00:00
+Proj. vs. Actual End Diff  : 165 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-20  @  0
+Projected Recession Start  : 2007-12-20
+Projected Recession End    : 2008-12-19
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -19 days, 0:00:00
+Proj. vs. Actual End Diff  : 164 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-22  @  0
+Projected Recession Start  : 2007-12-22
+Projected Recession End    : 2008-12-21
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -21 days, 0:00:00
+Proj. vs. Actual End Diff  : 162 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-23  @  0
+Projected Recession Start  : 2007-12-23
+Projected Recession End    : 2008-12-22
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -22 days, 0:00:00
+Proj. vs. Actual End Diff  : 161 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-27  @  0
+Projected Recession Start  : 2007-12-27
+Projected Recession End    : 2008-12-26
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -26 days, 0:00:00
+Proj. vs. Actual End Diff  : 157 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-28  @  0
+Projected Recession Start  : 2007-12-28
+Projected Recession End    : 2008-12-27
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -27 days, 0:00:00
+Proj. vs. Actual End Diff  : 156 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-29  @  0
+Projected Recession Start  : 2007-12-29
+Projected Recession End    : 2008-12-28
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -28 days, 0:00:00
+Proj. vs. Actual End Diff  : 155 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2005-12-30  @  0
+Projected Recession Start  : 2007-12-30
+Projected Recession End    : 2008-12-29
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -29 days, 0:00:00
+Proj. vs. Actual End Diff  : 154 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-03  @  2
+Projected Recession Start  : 2008-01-03
+Projected Recession End    : 2009-01-02
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -33 days, 0:00:00
+Proj. vs. Actual End Diff  : 150 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-04  @  2
+Projected Recession Start  : 2008-01-04
+Projected Recession End    : 2009-01-03
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -34 days, 0:00:00
+Proj. vs. Actual End Diff  : 149 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-05  @  2
+Projected Recession Start  : 2008-01-05
+Projected Recession End    : 2009-01-04
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -35 days, 0:00:00
+Proj. vs. Actual End Diff  : 148 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-06  @  2
+Projected Recession Start  : 2008-01-06
+Projected Recession End    : 2009-01-05
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -36 days, 0:00:00
+Proj. vs. Actual End Diff  : 147 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-09  @  2
+Projected Recession Start  : 2008-01-09
+Projected Recession End    : 2009-01-08
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -39 days, 0:00:00
+Proj. vs. Actual End Diff  : 144 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-10  @  1
+Projected Recession Start  : 2008-01-10
+Projected Recession End    : 2009-01-09
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -40 days, 0:00:00
+Proj. vs. Actual End Diff  : 143 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-11  @  1
+Projected Recession Start  : 2008-01-11
+Projected Recession End    : 2009-01-10
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -41 days, 0:00:00
+Proj. vs. Actual End Diff  : 142 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-12  @  2
+Projected Recession Start  : 2008-01-12
+Projected Recession End    : 2009-01-11
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -42 days, 0:00:00
+Proj. vs. Actual End Diff  : 141 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-13  @  2
+Projected Recession Start  : 2008-01-13
+Projected Recession End    : 2009-01-12
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -43 days, 0:00:00
+Proj. vs. Actual End Diff  : 140 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-17  @  2
+Projected Recession Start  : 2008-01-17
+Projected Recession End    : 2009-01-16
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -47 days, 0:00:00
+Proj. vs. Actual End Diff  : 136 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-18  @  2
+Projected Recession Start  : 2008-01-18
+Projected Recession End    : 2009-01-17
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -48 days, 0:00:00
+Proj. vs. Actual End Diff  : 135 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-19  @  2
+Projected Recession Start  : 2008-01-19
+Projected Recession End    : 2009-01-18
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -49 days, 0:00:00
+Proj. vs. Actual End Diff  : 134 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-20  @  2
+Projected Recession Start  : 2008-01-20
+Projected Recession End    : 2009-01-19
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -50 days, 0:00:00
+Proj. vs. Actual End Diff  : 133 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-23  @  2
+Projected Recession Start  : 2008-01-23
+Projected Recession End    : 2009-01-22
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -53 days, 0:00:00
+Proj. vs. Actual End Diff  : 130 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-24  @  2
+Projected Recession Start  : 2008-01-24
+Projected Recession End    : 2009-01-23
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -54 days, 0:00:00
+Proj. vs. Actual End Diff  : 129 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-25  @  2
+Projected Recession Start  : 2008-01-25
+Projected Recession End    : 2009-01-24
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -55 days, 0:00:00
+Proj. vs. Actual End Diff  : 128 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-26  @  2
+Projected Recession Start  : 2008-01-26
+Projected Recession End    : 2009-01-25
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -56 days, 0:00:00
+Proj. vs. Actual End Diff  : 127 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-27  @  2
+Projected Recession Start  : 2008-01-27
+Projected Recession End    : 2009-01-26
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -57 days, 0:00:00
+Proj. vs. Actual End Diff  : 126 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-30  @  2
+Projected Recession Start  : 2008-01-30
+Projected Recession End    : 2009-01-29
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -60 days, 0:00:00
+Proj. vs. Actual End Diff  : 123 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-01-31  @  2
+Projected Recession Start  : 2008-01-31
+Projected Recession End    : 2009-01-30
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -61 days, 0:00:00
+Proj. vs. Actual End Diff  : 122 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-02-01  @  1
+Projected Recession Start  : 2008-02-01
+Projected Recession End    : 2009-01-31
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -62 days, 0:00:00
+Proj. vs. Actual End Diff  : 121 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-02-02  @  2
+Projected Recession Start  : 2008-02-02
+Projected Recession End    : 2009-02-01
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -63 days, 0:00:00
+Proj. vs. Actual End Diff  : 120 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-02-03  @  2
+Projected Recession Start  : 2008-02-03
+Projected Recession End    : 2009-02-02
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -64 days, 0:00:00
+Proj. vs. Actual End Diff  : 119 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-09-27  @  1
+Projected Recession Start  : 2007-09-27
+Projected Recession End    : 2008-09-26
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: 65 days, 0:00:00
+Proj. vs. Actual End Diff  : 248 days, 0:00:00
+Projected / Actual Overlap : 300 days
+Misaligned Recn Prediction : 54% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-09-28  @  1
+Projected Recession Start  : 2007-09-28
+Projected Recession End    : 2008-09-27
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: 64 days, 0:00:00
+Proj. vs. Actual End Diff  : 247 days, 0:00:00
+Projected / Actual Overlap : 301 days
+Misaligned Recn Prediction : 54% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-09-29  @  1
+Projected Recession Start  : 2007-09-29
+Projected Recession End    : 2008-09-28
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: 63 days, 0:00:00
+Proj. vs. Actual End Diff  : 246 days, 0:00:00
+Projected / Actual Overlap : 302 days
+Misaligned Recn Prediction : 55% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-02  @  1
+Projected Recession Start  : 2007-10-02
+Projected Recession End    : 2008-10-01
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: 60 days, 0:00:00
+Proj. vs. Actual End Diff  : 243 days, 0:00:00
+Projected / Actual Overlap : 305 days
+Misaligned Recn Prediction : 55% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-03  @  1
+Projected Recession Start  : 2007-10-03
+Projected Recession End    : 2008-10-02
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 59 days, 0:00:00
+Proj. vs. Actual End Diff  : 242 days, 0:00:00
+Projected / Actual Overlap : 306 days
+Misaligned Recn Prediction : 55% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-04  @  1
+Projected Recession Start  : 2007-10-04
+Projected Recession End    : 2008-10-03
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 58 days, 0:00:00
+Proj. vs. Actual End Diff  : 241 days, 0:00:00
+Projected / Actual Overlap : 307 days
+Misaligned Recn Prediction : 56% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-05  @  1
+Projected Recession Start  : 2007-10-05
+Projected Recession End    : 2008-10-04
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 57 days, 0:00:00
+Proj. vs. Actual End Diff  : 240 days, 0:00:00
+Projected / Actual Overlap : 308 days
+Misaligned Recn Prediction : 56% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-06  @  1
+Projected Recession Start  : 2007-10-06
+Projected Recession End    : 2008-10-05
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 56 days, 0:00:00
+Proj. vs. Actual End Diff  : 239 days, 0:00:00
+Projected / Actual Overlap : 309 days
+Misaligned Recn Prediction : 56% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-10  @  1
+Projected Recession Start  : 2007-10-10
+Projected Recession End    : 2008-10-09
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 52 days, 0:00:00
+Proj. vs. Actual End Diff  : 235 days, 0:00:00
+Projected / Actual Overlap : 313 days
+Misaligned Recn Prediction : 57% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-11  @  1
+Projected Recession Start  : 2007-10-11
+Projected Recession End    : 2008-10-10
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 51 days, 0:00:00
+Proj. vs. Actual End Diff  : 234 days, 0:00:00
+Projected / Actual Overlap : 314 days
+Misaligned Recn Prediction : 57% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-12  @  1
+Projected Recession Start  : 2007-10-12
+Projected Recession End    : 2008-10-11
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 50 days, 0:00:00
+Proj. vs. Actual End Diff  : 233 days, 0:00:00
+Projected / Actual Overlap : 315 days
+Misaligned Recn Prediction : 57% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-13  @  1
+Projected Recession Start  : 2007-10-13
+Projected Recession End    : 2008-10-12
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 49 days, 0:00:00
+Proj. vs. Actual End Diff  : 232 days, 0:00:00
+Projected / Actual Overlap : 316 days
+Misaligned Recn Prediction : 57% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-16  @  1
+Projected Recession Start  : 2007-10-16
+Projected Recession End    : 2008-10-15
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 46 days, 0:00:00
+Proj. vs. Actual End Diff  : 229 days, 0:00:00
+Projected / Actual Overlap : 319 days
+Misaligned Recn Prediction : 58% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-17  @  1
+Projected Recession Start  : 2007-10-17
+Projected Recession End    : 2008-10-16
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 45 days, 0:00:00
+Proj. vs. Actual End Diff  : 228 days, 0:00:00
+Projected / Actual Overlap : 320 days
+Misaligned Recn Prediction : 58% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-18  @  1
+Projected Recession Start  : 2007-10-18
+Projected Recession End    : 2008-10-17
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 44 days, 0:00:00
+Proj. vs. Actual End Diff  : 227 days, 0:00:00
+Projected / Actual Overlap : 321 days
+Misaligned Recn Prediction : 58% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-19  @  1
+Projected Recession Start  : 2007-10-19
+Projected Recession End    : 2008-10-18
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 43 days, 0:00:00
+Proj. vs. Actual End Diff  : 226 days, 0:00:00
+Projected / Actual Overlap : 322 days
+Misaligned Recn Prediction : 58% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-20  @  1
+Projected Recession Start  : 2007-10-20
+Projected Recession End    : 2008-10-19
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 42 days, 0:00:00
+Proj. vs. Actual End Diff  : 225 days, 0:00:00
+Projected / Actual Overlap : 323 days
+Misaligned Recn Prediction : 58% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-23  @  1
+Projected Recession Start  : 2007-10-23
+Projected Recession End    : 2008-10-22
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 39 days, 0:00:00
+Proj. vs. Actual End Diff  : 222 days, 0:00:00
+Projected / Actual Overlap : 326 days
+Misaligned Recn Prediction : 59% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-24  @  2
+Projected Recession Start  : 2007-10-24
+Projected Recession End    : 2008-10-23
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 38 days, 0:00:00
+Proj. vs. Actual End Diff  : 221 days, 0:00:00
+Projected / Actual Overlap : 327 days
+Misaligned Recn Prediction : 59% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-25  @  2
+Projected Recession Start  : 2007-10-25
+Projected Recession End    : 2008-10-24
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 37 days, 0:00:00
+Proj. vs. Actual End Diff  : 220 days, 0:00:00
+Projected / Actual Overlap : 328 days
+Misaligned Recn Prediction : 59% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-26  @  2
+Projected Recession Start  : 2007-10-26
+Projected Recession End    : 2008-10-25
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 36 days, 0:00:00
+Proj. vs. Actual End Diff  : 219 days, 0:00:00
+Projected / Actual Overlap : 329 days
+Misaligned Recn Prediction : 60% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-27  @  2
+Projected Recession Start  : 2007-10-27
+Projected Recession End    : 2008-10-26
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 35 days, 0:00:00
+Proj. vs. Actual End Diff  : 218 days, 0:00:00
+Projected / Actual Overlap : 330 days
+Misaligned Recn Prediction : 60% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-30  @  2
+Projected Recession Start  : 2007-10-30
+Projected Recession End    : 2008-10-29
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 32 days, 0:00:00
+Proj. vs. Actual End Diff  : 215 days, 0:00:00
+Projected / Actual Overlap : 333 days
+Misaligned Recn Prediction : 60% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-10-31  @  2
+Projected Recession Start  : 2007-10-31
+Projected Recession End    : 2008-10-30
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 31 days, 0:00:00
+Proj. vs. Actual End Diff  : 214 days, 0:00:00
+Projected / Actual Overlap : 334 days
+Misaligned Recn Prediction : 60% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-01  @  2
+Projected Recession Start  : 2007-11-01
+Projected Recession End    : 2008-10-31
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 30 days, 0:00:00
+Proj. vs. Actual End Diff  : 213 days, 0:00:00
+Projected / Actual Overlap : 335 days
+Misaligned Recn Prediction : 61% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-02  @  2
+Projected Recession Start  : 2007-11-02
+Projected Recession End    : 2008-11-01
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 29 days, 0:00:00
+Proj. vs. Actual End Diff  : 212 days, 0:00:00
+Projected / Actual Overlap : 336 days
+Misaligned Recn Prediction : 61% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-03  @  2
+Projected Recession Start  : 2007-11-03
+Projected Recession End    : 2008-11-02
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 28 days, 0:00:00
+Proj. vs. Actual End Diff  : 211 days, 0:00:00
+Projected / Actual Overlap : 337 days
+Misaligned Recn Prediction : 61% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-06  @  2
+Projected Recession Start  : 2007-11-06
+Projected Recession End    : 2008-11-05
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 25 days, 0:00:00
+Proj. vs. Actual End Diff  : 208 days, 0:00:00
+Projected / Actual Overlap : 340 days
+Misaligned Recn Prediction : 62% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-07  @  2
+Projected Recession Start  : 2007-11-07
+Projected Recession End    : 2008-11-06
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 24 days, 0:00:00
+Proj. vs. Actual End Diff  : 207 days, 0:00:00
+Projected / Actual Overlap : 341 days
+Misaligned Recn Prediction : 62% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-08  @  2
+Projected Recession Start  : 2007-11-08
+Projected Recession End    : 2008-11-07
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 23 days, 0:00:00
+Proj. vs. Actual End Diff  : 206 days, 0:00:00
+Projected / Actual Overlap : 342 days
+Misaligned Recn Prediction : 62% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-09  @  2
+Projected Recession Start  : 2007-11-09
+Projected Recession End    : 2008-11-08
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 22 days, 0:00:00
+Proj. vs. Actual End Diff  : 205 days, 0:00:00
+Projected / Actual Overlap : 343 days
+Misaligned Recn Prediction : 62% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-10  @  2
+Projected Recession Start  : 2007-11-10
+Projected Recession End    : 2008-11-09
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 21 days, 0:00:00
+Proj. vs. Actual End Diff  : 204 days, 0:00:00
+Projected / Actual Overlap : 344 days
+Misaligned Recn Prediction : 62% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-13  @  2
+Projected Recession Start  : 2007-11-13
+Projected Recession End    : 2008-11-12
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 18 days, 0:00:00
+Proj. vs. Actual End Diff  : 201 days, 0:00:00
+Projected / Actual Overlap : 347 days
+Misaligned Recn Prediction : 63% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-14  @  2
+Projected Recession Start  : 2007-11-14
+Projected Recession End    : 2008-11-13
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 17 days, 0:00:00
+Proj. vs. Actual End Diff  : 200 days, 0:00:00
+Projected / Actual Overlap : 348 days
+Misaligned Recn Prediction : 63% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-15  @  2
+Projected Recession Start  : 2007-11-15
+Projected Recession End    : 2008-11-14
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 16 days, 0:00:00
+Proj. vs. Actual End Diff  : 199 days, 0:00:00
+Projected / Actual Overlap : 349 days
+Misaligned Recn Prediction : 63% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-16  @  2
+Projected Recession Start  : 2007-11-16
+Projected Recession End    : 2008-11-15
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 15 days, 0:00:00
+Proj. vs. Actual End Diff  : 198 days, 0:00:00
+Projected / Actual Overlap : 350 days
+Misaligned Recn Prediction : 63% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-17  @  2
+Projected Recession Start  : 2007-11-17
+Projected Recession End    : 2008-11-16
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 14 days, 0:00:00
+Proj. vs. Actual End Diff  : 197 days, 0:00:00
+Projected / Actual Overlap : 351 days
+Misaligned Recn Prediction : 64% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-20  @  2
+Projected Recession Start  : 2007-11-20
+Projected Recession End    : 2008-11-19
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 11 days, 0:00:00
+Proj. vs. Actual End Diff  : 194 days, 0:00:00
+Projected / Actual Overlap : 354 days
+Misaligned Recn Prediction : 64% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-21  @  2
+Projected Recession Start  : 2007-11-21
+Projected Recession End    : 2008-11-20
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 10 days, 0:00:00
+Proj. vs. Actual End Diff  : 193 days, 0:00:00
+Projected / Actual Overlap : 355 days
+Misaligned Recn Prediction : 64% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-22  @  2
+Projected Recession Start  : 2007-11-22
+Projected Recession End    : 2008-11-21
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 9 days, 0:00:00
+Proj. vs. Actual End Diff  : 192 days, 0:00:00
+Projected / Actual Overlap : 356 days
+Misaligned Recn Prediction : 64% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-24  @  2
+Projected Recession Start  : 2007-11-24
+Projected Recession End    : 2008-11-23
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 7 days, 0:00:00
+Proj. vs. Actual End Diff  : 190 days, 0:00:00
+Projected / Actual Overlap : 358 days
+Misaligned Recn Prediction : 65% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-27  @  2
+Projected Recession Start  : 2007-11-27
+Projected Recession End    : 2008-11-26
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 4 days, 0:00:00
+Proj. vs. Actual End Diff  : 187 days, 0:00:00
+Projected / Actual Overlap : 361 days
+Misaligned Recn Prediction : 65% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-28  @  2
+Projected Recession Start  : 2007-11-28
+Projected Recession End    : 2008-11-27
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 3 days, 0:00:00
+Proj. vs. Actual End Diff  : 186 days, 0:00:00
+Projected / Actual Overlap : 362 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-29  @  2
+Projected Recession Start  : 2007-11-29
+Projected Recession End    : 2008-11-28
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 2 days, 0:00:00
+Proj. vs. Actual End Diff  : 185 days, 0:00:00
+Projected / Actual Overlap : 363 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-11-30  @  2
+Projected Recession Start  : 2007-11-30
+Projected Recession End    : 2008-11-29
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 1 day, 0:00:00
+Proj. vs. Actual End Diff  : 184 days, 0:00:00
+Projected / Actual Overlap : 364 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-01  @  2
+Projected Recession Start  : 2007-12-01
+Projected Recession End    : 2008-11-30
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Exact start prediction     : 0:00:00
+Proj. vs. Actual End Diff  : 183 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-04  @  2
+Projected Recession Start  : 2007-12-04
+Projected Recession End    : 2008-12-03
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -3 days, 0:00:00
+Proj. vs. Actual End Diff  : 180 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-05  @  1
+Projected Recession Start  : 2007-12-05
+Projected Recession End    : 2008-12-04
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -4 days, 0:00:00
+Proj. vs. Actual End Diff  : 179 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-06  @  1
+Projected Recession Start  : 2007-12-06
+Projected Recession End    : 2008-12-05
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -5 days, 0:00:00
+Proj. vs. Actual End Diff  : 178 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-07  @  1
+Projected Recession Start  : 2007-12-07
+Projected Recession End    : 2008-12-06
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -6 days, 0:00:00
+Proj. vs. Actual End Diff  : 177 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-08  @  1
+Projected Recession Start  : 2007-12-08
+Projected Recession End    : 2008-12-07
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -7 days, 0:00:00
+Proj. vs. Actual End Diff  : 176 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-11  @  1
+Projected Recession Start  : 2007-12-11
+Projected Recession End    : 2008-12-10
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -10 days, 0:00:00
+Proj. vs. Actual End Diff  : 173 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-12  @  1
+Projected Recession Start  : 2007-12-12
+Projected Recession End    : 2008-12-11
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -11 days, 0:00:00
+Proj. vs. Actual End Diff  : 172 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-13  @  1
+Projected Recession Start  : 2007-12-13
+Projected Recession End    : 2008-12-12
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -12 days, 0:00:00
+Proj. vs. Actual End Diff  : 171 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-14  @  1
+Projected Recession Start  : 2007-12-14
+Projected Recession End    : 2008-12-13
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -13 days, 0:00:00
+Proj. vs. Actual End Diff  : 170 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-15  @  1
+Projected Recession Start  : 2007-12-15
+Projected Recession End    : 2008-12-14
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -14 days, 0:00:00
+Proj. vs. Actual End Diff  : 169 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-18  @  1
+Projected Recession Start  : 2007-12-18
+Projected Recession End    : 2008-12-17
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -17 days, 0:00:00
+Proj. vs. Actual End Diff  : 166 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-19  @  1
+Projected Recession Start  : 2007-12-19
+Projected Recession End    : 2008-12-18
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -18 days, 0:00:00
+Proj. vs. Actual End Diff  : 165 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-20  @  1
+Projected Recession Start  : 2007-12-20
+Projected Recession End    : 2008-12-19
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -19 days, 0:00:00
+Proj. vs. Actual End Diff  : 164 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-21  @  1
+Projected Recession Start  : 2007-12-21
+Projected Recession End    : 2008-12-20
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -20 days, 0:00:00
+Proj. vs. Actual End Diff  : 163 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-22  @  1
+Projected Recession Start  : 2007-12-22
+Projected Recession End    : 2008-12-21
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -21 days, 0:00:00
+Proj. vs. Actual End Diff  : 162 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-26  @  1
+Projected Recession Start  : 2007-12-26
+Projected Recession End    : 2008-12-25
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -25 days, 0:00:00
+Proj. vs. Actual End Diff  : 158 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-27  @  1
+Projected Recession Start  : 2007-12-27
+Projected Recession End    : 2008-12-26
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -26 days, 0:00:00
+Proj. vs. Actual End Diff  : 157 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-28  @  1
+Projected Recession Start  : 2007-12-28
+Projected Recession End    : 2008-12-27
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -27 days, 0:00:00
+Proj. vs. Actual End Diff  : 156 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2006-12-29  @  1
+Projected Recession Start  : 2007-12-29
+Projected Recession End    : 2008-12-28
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -28 days, 0:00:00
+Proj. vs. Actual End Diff  : 155 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-02  @  1
+Projected Recession Start  : 2008-01-02
+Projected Recession End    : 2009-01-01
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -32 days, 0:00:00
+Proj. vs. Actual End Diff  : 151 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-03  @  1
+Projected Recession Start  : 2008-01-03
+Projected Recession End    : 2009-01-02
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -33 days, 0:00:00
+Proj. vs. Actual End Diff  : 150 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-04  @  1
+Projected Recession Start  : 2008-01-04
+Projected Recession End    : 2009-01-03
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -34 days, 0:00:00
+Proj. vs. Actual End Diff  : 149 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-05  @  1
+Projected Recession Start  : 2008-01-05
+Projected Recession End    : 2009-01-04
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -35 days, 0:00:00
+Proj. vs. Actual End Diff  : 148 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-08  @  1
+Projected Recession Start  : 2008-01-08
+Projected Recession End    : 2009-01-07
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -38 days, 0:00:00
+Proj. vs. Actual End Diff  : 145 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-09  @  1
+Projected Recession Start  : 2008-01-09
+Projected Recession End    : 2009-01-08
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -39 days, 0:00:00
+Proj. vs. Actual End Diff  : 144 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-10  @  1
+Projected Recession Start  : 2008-01-10
+Projected Recession End    : 2009-01-09
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -40 days, 0:00:00
+Proj. vs. Actual End Diff  : 143 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-11  @  1
+Projected Recession Start  : 2008-01-11
+Projected Recession End    : 2009-01-10
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -41 days, 0:00:00
+Proj. vs. Actual End Diff  : 142 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-12  @  1
+Projected Recession Start  : 2008-01-12
+Projected Recession End    : 2009-01-11
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -42 days, 0:00:00
+Proj. vs. Actual End Diff  : 141 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-16  @  1
+Projected Recession Start  : 2008-01-16
+Projected Recession End    : 2009-01-15
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -46 days, 0:00:00
+Proj. vs. Actual End Diff  : 137 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-17  @  1
+Projected Recession Start  : 2008-01-17
+Projected Recession End    : 2009-01-16
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -47 days, 0:00:00
+Proj. vs. Actual End Diff  : 136 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-18  @  1
+Projected Recession Start  : 2008-01-18
+Projected Recession End    : 2009-01-17
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -48 days, 0:00:00
+Proj. vs. Actual End Diff  : 135 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-19  @  1
+Projected Recession Start  : 2008-01-19
+Projected Recession End    : 2009-01-18
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -49 days, 0:00:00
+Proj. vs. Actual End Diff  : 134 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-22  @  1
+Projected Recession Start  : 2008-01-22
+Projected Recession End    : 2009-01-21
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -52 days, 0:00:00
+Proj. vs. Actual End Diff  : 131 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-23  @  1
+Projected Recession Start  : 2008-01-23
+Projected Recession End    : 2009-01-22
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -53 days, 0:00:00
+Proj. vs. Actual End Diff  : 130 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-24  @  1
+Projected Recession Start  : 2008-01-24
+Projected Recession End    : 2009-01-23
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -54 days, 0:00:00
+Proj. vs. Actual End Diff  : 129 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-25  @  1
+Projected Recession Start  : 2008-01-25
+Projected Recession End    : 2009-01-24
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -55 days, 0:00:00
+Proj. vs. Actual End Diff  : 128 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-26  @  1
+Projected Recession Start  : 2008-01-26
+Projected Recession End    : 2009-01-25
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -56 days, 0:00:00
+Proj. vs. Actual End Diff  : 127 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-29  @  1
+Projected Recession Start  : 2008-01-29
+Projected Recession End    : 2009-01-28
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -59 days, 0:00:00
+Proj. vs. Actual End Diff  : 124 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-30  @  1
+Projected Recession Start  : 2008-01-30
+Projected Recession End    : 2009-01-29
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -60 days, 0:00:00
+Proj. vs. Actual End Diff  : 123 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-01-31  @  1
+Projected Recession Start  : 2008-01-31
+Projected Recession End    : 2009-01-30
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -61 days, 0:00:00
+Proj. vs. Actual End Diff  : 122 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-02-01  @  1
+Projected Recession Start  : 2008-02-01
+Projected Recession End    : 2009-01-31
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -62 days, 0:00:00
+Proj. vs. Actual End Diff  : 121 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-02-02  @  1
+Projected Recession Start  : 2008-02-02
+Projected Recession End    : 2009-02-01
+Proj. Recession Duration   : 365 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -63 days, 0:00:00
+Proj. vs. Actual End Diff  : 120 days, 0:00:00
+Projected / Actual Overlap : 365 days
+Misaligned Recn Prediction : 66% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-03-29  @  0
+Projected Recession Start  : 2007-09-27
+Projected Recession End    : 2008-03-28
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: 65 days, 0:00:00
+Proj. vs. Actual End Diff  : 430 days, 0:00:00
+Projected / Actual Overlap : 118 days
+Misaligned Recn Prediction : 21% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-03-30  @  1
+Projected Recession Start  : 2007-09-28
+Projected Recession End    : 2008-03-29
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: 64 days, 0:00:00
+Proj. vs. Actual End Diff  : 429 days, 0:00:00
+Projected / Actual Overlap : 119 days
+Misaligned Recn Prediction : 21% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-02  @  1
+Projected Recession Start  : 2007-10-01
+Projected Recession End    : 2008-04-01
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: 61 days, 0:00:00
+Proj. vs. Actual End Diff  : 426 days, 0:00:00
+Projected / Actual Overlap : 122 days
+Misaligned Recn Prediction : 22% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-03  @  1
+Projected Recession Start  : 2007-10-02
+Projected Recession End    : 2008-04-02
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: 60 days, 0:00:00
+Proj. vs. Actual End Diff  : 425 days, 0:00:00
+Projected / Actual Overlap : 123 days
+Misaligned Recn Prediction : 22% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-04  @  1
+Projected Recession Start  : 2007-10-03
+Projected Recession End    : 2008-04-03
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 59 days, 0:00:00
+Proj. vs. Actual End Diff  : 424 days, 0:00:00
+Projected / Actual Overlap : 124 days
+Misaligned Recn Prediction : 22% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-05  @  1
+Projected Recession Start  : 2007-10-04
+Projected Recession End    : 2008-04-04
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 58 days, 0:00:00
+Proj. vs. Actual End Diff  : 423 days, 0:00:00
+Projected / Actual Overlap : 125 days
+Misaligned Recn Prediction : 22% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-06  @  1
+Projected Recession Start  : 2007-10-05
+Projected Recession End    : 2008-04-05
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 57 days, 0:00:00
+Proj. vs. Actual End Diff  : 422 days, 0:00:00
+Projected / Actual Overlap : 126 days
+Misaligned Recn Prediction : 22% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-09  @  1
+Projected Recession Start  : 2007-10-08
+Projected Recession End    : 2008-04-08
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 54 days, 0:00:00
+Proj. vs. Actual End Diff  : 419 days, 0:00:00
+Projected / Actual Overlap : 129 days
+Misaligned Recn Prediction : 23% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-10  @  0
+Projected Recession Start  : 2007-10-09
+Projected Recession End    : 2008-04-09
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 53 days, 0:00:00
+Proj. vs. Actual End Diff  : 418 days, 0:00:00
+Projected / Actual Overlap : 130 days
+Misaligned Recn Prediction : 23% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-11  @  0
+Projected Recession Start  : 2007-10-10
+Projected Recession End    : 2008-04-10
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 52 days, 0:00:00
+Proj. vs. Actual End Diff  : 417 days, 0:00:00
+Projected / Actual Overlap : 131 days
+Misaligned Recn Prediction : 23% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-12  @  0
+Projected Recession Start  : 2007-10-11
+Projected Recession End    : 2008-04-11
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 51 days, 0:00:00
+Proj. vs. Actual End Diff  : 416 days, 0:00:00
+Projected / Actual Overlap : 132 days
+Misaligned Recn Prediction : 24% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-13  @  0
+Projected Recession Start  : 2007-10-12
+Projected Recession End    : 2008-04-12
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 50 days, 0:00:00
+Proj. vs. Actual End Diff  : 415 days, 0:00:00
+Projected / Actual Overlap : 133 days
+Misaligned Recn Prediction : 24% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-16  @  0
+Projected Recession Start  : 2007-10-15
+Projected Recession End    : 2008-04-15
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 47 days, 0:00:00
+Proj. vs. Actual End Diff  : 412 days, 0:00:00
+Projected / Actual Overlap : 136 days
+Misaligned Recn Prediction : 24% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-17  @  0
+Projected Recession Start  : 2007-10-16
+Projected Recession End    : 2008-04-16
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 46 days, 0:00:00
+Proj. vs. Actual End Diff  : 411 days, 0:00:00
+Projected / Actual Overlap : 137 days
+Misaligned Recn Prediction : 25% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-18  @  0
+Projected Recession Start  : 2007-10-17
+Projected Recession End    : 2008-04-17
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 45 days, 0:00:00
+Proj. vs. Actual End Diff  : 410 days, 0:00:00
+Projected / Actual Overlap : 138 days
+Misaligned Recn Prediction : 25% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-19  @  0
+Projected Recession Start  : 2007-10-18
+Projected Recession End    : 2008-04-18
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 44 days, 0:00:00
+Proj. vs. Actual End Diff  : 409 days, 0:00:00
+Projected / Actual Overlap : 139 days
+Misaligned Recn Prediction : 25% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-20  @  0
+Projected Recession Start  : 2007-10-19
+Projected Recession End    : 2008-04-19
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 43 days, 0:00:00
+Proj. vs. Actual End Diff  : 408 days, 0:00:00
+Projected / Actual Overlap : 140 days
+Misaligned Recn Prediction : 25% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-23  @  0
+Projected Recession Start  : 2007-10-22
+Projected Recession End    : 2008-04-22
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 40 days, 0:00:00
+Proj. vs. Actual End Diff  : 405 days, 0:00:00
+Projected / Actual Overlap : 143 days
+Misaligned Recn Prediction : 26% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-24  @  0
+Projected Recession Start  : 2007-10-23
+Projected Recession End    : 2008-04-23
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 39 days, 0:00:00
+Proj. vs. Actual End Diff  : 404 days, 0:00:00
+Projected / Actual Overlap : 144 days
+Misaligned Recn Prediction : 26% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-25  @  0
+Projected Recession Start  : 2007-10-24
+Projected Recession End    : 2008-04-24
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 38 days, 0:00:00
+Proj. vs. Actual End Diff  : 403 days, 0:00:00
+Projected / Actual Overlap : 145 days
+Misaligned Recn Prediction : 26% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-26  @  0
+Projected Recession Start  : 2007-10-25
+Projected Recession End    : 2008-04-25
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 37 days, 0:00:00
+Proj. vs. Actual End Diff  : 402 days, 0:00:00
+Projected / Actual Overlap : 146 days
+Misaligned Recn Prediction : 26% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-27  @  0
+Projected Recession Start  : 2007-10-26
+Projected Recession End    : 2008-04-26
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 36 days, 0:00:00
+Proj. vs. Actual End Diff  : 401 days, 0:00:00
+Projected / Actual Overlap : 147 days
+Misaligned Recn Prediction : 26% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-04-30  @  0
+Projected Recession Start  : 2007-10-29
+Projected Recession End    : 2008-04-29
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 33 days, 0:00:00
+Proj. vs. Actual End Diff  : 398 days, 0:00:00
+Projected / Actual Overlap : 150 days
+Misaligned Recn Prediction : 27% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-01  @  0
+Projected Recession Start  : 2007-10-30
+Projected Recession End    : 2008-04-30
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 32 days, 0:00:00
+Proj. vs. Actual End Diff  : 397 days, 0:00:00
+Projected / Actual Overlap : 151 days
+Misaligned Recn Prediction : 27% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-02  @  0
+Projected Recession Start  : 2007-10-31
+Projected Recession End    : 2008-05-01
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 31 days, 0:00:00
+Proj. vs. Actual End Diff  : 396 days, 0:00:00
+Projected / Actual Overlap : 152 days
+Misaligned Recn Prediction : 27% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-03  @  0
+Projected Recession Start  : 2007-11-01
+Projected Recession End    : 2008-05-02
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 30 days, 0:00:00
+Proj. vs. Actual End Diff  : 395 days, 0:00:00
+Projected / Actual Overlap : 153 days
+Misaligned Recn Prediction : 27% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-04  @  0
+Projected Recession Start  : 2007-11-02
+Projected Recession End    : 2008-05-03
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 29 days, 0:00:00
+Proj. vs. Actual End Diff  : 394 days, 0:00:00
+Projected / Actual Overlap : 154 days
+Misaligned Recn Prediction : 28% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-07  @  0
+Projected Recession Start  : 2007-11-05
+Projected Recession End    : 2008-05-06
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 26 days, 0:00:00
+Proj. vs. Actual End Diff  : 391 days, 0:00:00
+Projected / Actual Overlap : 157 days
+Misaligned Recn Prediction : 28% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-08  @  0
+Projected Recession Start  : 2007-11-06
+Projected Recession End    : 2008-05-07
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 25 days, 0:00:00
+Proj. vs. Actual End Diff  : 390 days, 0:00:00
+Projected / Actual Overlap : 158 days
+Misaligned Recn Prediction : 28% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-09  @  0
+Projected Recession Start  : 2007-11-07
+Projected Recession End    : 2008-05-08
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 24 days, 0:00:00
+Proj. vs. Actual End Diff  : 389 days, 0:00:00
+Projected / Actual Overlap : 159 days
+Misaligned Recn Prediction : 29% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-10  @  0
+Projected Recession Start  : 2007-11-08
+Projected Recession End    : 2008-05-09
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 23 days, 0:00:00
+Proj. vs. Actual End Diff  : 388 days, 0:00:00
+Projected / Actual Overlap : 160 days
+Misaligned Recn Prediction : 29% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-11  @  0
+Projected Recession Start  : 2007-11-09
+Projected Recession End    : 2008-05-10
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 22 days, 0:00:00
+Proj. vs. Actual End Diff  : 387 days, 0:00:00
+Projected / Actual Overlap : 161 days
+Misaligned Recn Prediction : 29% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-14  @  0
+Projected Recession Start  : 2007-11-12
+Projected Recession End    : 2008-05-13
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 19 days, 0:00:00
+Proj. vs. Actual End Diff  : 384 days, 0:00:00
+Projected / Actual Overlap : 164 days
+Misaligned Recn Prediction : 29% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-15  @  0
+Projected Recession Start  : 2007-11-13
+Projected Recession End    : 2008-05-14
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 18 days, 0:00:00
+Proj. vs. Actual End Diff  : 383 days, 0:00:00
+Projected / Actual Overlap : 165 days
+Misaligned Recn Prediction : 30% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-16  @  0
+Projected Recession Start  : 2007-11-14
+Projected Recession End    : 2008-05-15
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 17 days, 0:00:00
+Proj. vs. Actual End Diff  : 382 days, 0:00:00
+Projected / Actual Overlap : 166 days
+Misaligned Recn Prediction : 30% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-17  @  0
+Projected Recession Start  : 2007-11-15
+Projected Recession End    : 2008-05-16
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 16 days, 0:00:00
+Proj. vs. Actual End Diff  : 381 days, 0:00:00
+Projected / Actual Overlap : 167 days
+Misaligned Recn Prediction : 30% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-18  @  0
+Projected Recession Start  : 2007-11-16
+Projected Recession End    : 2008-05-17
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 15 days, 0:00:00
+Proj. vs. Actual End Diff  : 380 days, 0:00:00
+Projected / Actual Overlap : 168 days
+Misaligned Recn Prediction : 30% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-21  @  0
+Projected Recession Start  : 2007-11-19
+Projected Recession End    : 2008-05-20
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 12 days, 0:00:00
+Proj. vs. Actual End Diff  : 377 days, 0:00:00
+Projected / Actual Overlap : 171 days
+Misaligned Recn Prediction : 31% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-22  @  1
+Projected Recession Start  : 2007-11-20
+Projected Recession End    : 2008-05-21
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 11 days, 0:00:00
+Proj. vs. Actual End Diff  : 376 days, 0:00:00
+Projected / Actual Overlap : 172 days
+Misaligned Recn Prediction : 31% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-23  @  1
+Projected Recession Start  : 2007-11-21
+Projected Recession End    : 2008-05-22
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 10 days, 0:00:00
+Proj. vs. Actual End Diff  : 375 days, 0:00:00
+Projected / Actual Overlap : 173 days
+Misaligned Recn Prediction : 31% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-24  @  1
+Projected Recession Start  : 2007-11-22
+Projected Recession End    : 2008-05-23
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 9 days, 0:00:00
+Proj. vs. Actual End Diff  : 374 days, 0:00:00
+Projected / Actual Overlap : 174 days
+Misaligned Recn Prediction : 31% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-25  @  1
+Projected Recession Start  : 2007-11-23
+Projected Recession End    : 2008-05-24
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 8 days, 0:00:00
+Proj. vs. Actual End Diff  : 373 days, 0:00:00
+Projected / Actual Overlap : 175 days
+Misaligned Recn Prediction : 31% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-29  @  1
+Projected Recession Start  : 2007-11-27
+Projected Recession End    : 2008-05-28
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 4 days, 0:00:00
+Proj. vs. Actual End Diff  : 369 days, 0:00:00
+Projected / Actual Overlap : 179 days
+Misaligned Recn Prediction : 32% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-30  @  1
+Projected Recession Start  : 2007-11-28
+Projected Recession End    : 2008-05-29
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 3 days, 0:00:00
+Proj. vs. Actual End Diff  : 368 days, 0:00:00
+Projected / Actual Overlap : 180 days
+Misaligned Recn Prediction : 32% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-05-31  @  1
+Projected Recession Start  : 2007-11-29
+Projected Recession End    : 2008-05-30
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 2 days, 0:00:00
+Proj. vs. Actual End Diff  : 367 days, 0:00:00
+Projected / Actual Overlap : 181 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-06-22  @  0
+Projected Recession Start  : 2007-12-21
+Projected Recession End    : 2008-06-21
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -20 days, 0:00:00
+Proj. vs. Actual End Diff  : 345 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-06-25  @  0
+Projected Recession Start  : 2007-12-24
+Projected Recession End    : 2008-06-24
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -23 days, 0:00:00
+Proj. vs. Actual End Diff  : 342 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-06-26  @  0
+Projected Recession Start  : 2007-12-25
+Projected Recession End    : 2008-06-25
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -24 days, 0:00:00
+Proj. vs. Actual End Diff  : 341 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-06-27  @  0
+Projected Recession Start  : 2007-12-26
+Projected Recession End    : 2008-06-26
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -25 days, 0:00:00
+Proj. vs. Actual End Diff  : 340 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-06-29  @  0
+Projected Recession Start  : 2007-12-28
+Projected Recession End    : 2008-06-28
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -27 days, 0:00:00
+Proj. vs. Actual End Diff  : 338 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-02  @  0
+Projected Recession Start  : 2007-12-31
+Projected Recession End    : 2008-07-01
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -30 days, 0:00:00
+Proj. vs. Actual End Diff  : 335 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-03  @  0
+Projected Recession Start  : 2008-01-01
+Projected Recession End    : 2008-07-02
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -31 days, 0:00:00
+Proj. vs. Actual End Diff  : 334 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-05  @  0
+Projected Recession Start  : 2008-01-03
+Projected Recession End    : 2008-07-04
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -33 days, 0:00:00
+Proj. vs. Actual End Diff  : 332 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-06  @  0
+Projected Recession Start  : 2008-01-04
+Projected Recession End    : 2008-07-05
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -34 days, 0:00:00
+Proj. vs. Actual End Diff  : 331 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-09  @  0
+Projected Recession Start  : 2008-01-07
+Projected Recession End    : 2008-07-08
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -37 days, 0:00:00
+Proj. vs. Actual End Diff  : 328 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-10  @  0
+Projected Recession Start  : 2008-01-08
+Projected Recession End    : 2008-07-09
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -38 days, 0:00:00
+Proj. vs. Actual End Diff  : 327 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-11  @  0
+Projected Recession Start  : 2008-01-09
+Projected Recession End    : 2008-07-10
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -39 days, 0:00:00
+Proj. vs. Actual End Diff  : 326 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-12  @  0
+Projected Recession Start  : 2008-01-10
+Projected Recession End    : 2008-07-11
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -40 days, 0:00:00
+Proj. vs. Actual End Diff  : 325 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-13  @  0
+Projected Recession Start  : 2008-01-11
+Projected Recession End    : 2008-07-12
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -41 days, 0:00:00
+Proj. vs. Actual End Diff  : 324 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-16  @  0
+Projected Recession Start  : 2008-01-14
+Projected Recession End    : 2008-07-15
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -44 days, 0:00:00
+Proj. vs. Actual End Diff  : 321 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-17  @  0
+Projected Recession Start  : 2008-01-15
+Projected Recession End    : 2008-07-16
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -45 days, 0:00:00
+Proj. vs. Actual End Diff  : 320 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-18  @  0
+Projected Recession Start  : 2008-01-16
+Projected Recession End    : 2008-07-17
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -46 days, 0:00:00
+Proj. vs. Actual End Diff  : 319 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-19  @  0
+Projected Recession Start  : 2008-01-17
+Projected Recession End    : 2008-07-18
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -47 days, 0:00:00
+Proj. vs. Actual End Diff  : 318 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-20  @  0
+Projected Recession Start  : 2008-01-18
+Projected Recession End    : 2008-07-19
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -48 days, 0:00:00
+Proj. vs. Actual End Diff  : 317 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-23  @  0
+Projected Recession Start  : 2008-01-21
+Projected Recession End    : 2008-07-22
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -51 days, 0:00:00
+Proj. vs. Actual End Diff  : 314 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-24  @  1
+Projected Recession Start  : 2008-01-22
+Projected Recession End    : 2008-07-23
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -52 days, 0:00:00
+Proj. vs. Actual End Diff  : 313 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-25  @  1
+Projected Recession Start  : 2008-01-23
+Projected Recession End    : 2008-07-24
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -53 days, 0:00:00
+Proj. vs. Actual End Diff  : 312 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-26  @  1
+Projected Recession Start  : 2008-01-24
+Projected Recession End    : 2008-07-25
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -54 days, 0:00:00
+Proj. vs. Actual End Diff  : 311 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-27  @  1
+Projected Recession Start  : 2008-01-25
+Projected Recession End    : 2008-07-26
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -55 days, 0:00:00
+Proj. vs. Actual End Diff  : 310 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-30  @  0
+Projected Recession Start  : 2008-01-28
+Projected Recession End    : 2008-07-29
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -58 days, 0:00:00
+Proj. vs. Actual End Diff  : 307 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-07-31  @  1
+Projected Recession Start  : 2008-01-29
+Projected Recession End    : 2008-07-30
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -59 days, 0:00:00
+Proj. vs. Actual End Diff  : 306 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-08-01  @  1
+Projected Recession Start  : 2008-01-30
+Projected Recession End    : 2008-07-31
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -60 days, 0:00:00
+Proj. vs. Actual End Diff  : 305 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-08-02  @  1
+Projected Recession Start  : 2008-01-31
+Projected Recession End    : 2008-08-01
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -61 days, 0:00:00
+Proj. vs. Actual End Diff  : 304 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-08-03  @  1
+Projected Recession Start  : 2008-02-01
+Projected Recession End    : 2008-08-02
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -62 days, 0:00:00
+Proj. vs. Actual End Diff  : 303 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-08-06  @  1
+Projected Recession Start  : 2008-02-04
+Projected Recession End    : 2008-08-05
+Proj. Recession Duration   : 183 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -65 days, 0:00:00
+Proj. vs. Actual End Diff  : 300 days, 0:00:00
+Projected / Actual Overlap : 183 days
+Misaligned Recn Prediction : 33% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-08-31  @  0
+Projected Recession Start  : 2007-09-28
+Projected Recession End    : 2007-11-30
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: 64 days, 0:00:00
+Proj. vs. Actual End Diff  : 549 days, 0:00:00
+Projected / Actual Overlap : 0 days
+Misaligned Recn Prediction : 0% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-09-04  @  0
+Projected Recession Start  : 2007-10-02
+Projected Recession End    : 2007-12-04
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: 60 days, 0:00:00
+Proj. vs. Actual End Diff  : 545 days, 0:00:00
+Projected / Actual Overlap : 3 days
+Misaligned Recn Prediction : 0% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-09-05  @  0
+Projected Recession Start  : 2007-10-03
+Projected Recession End    : 2007-12-05
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 59 days, 0:00:00
+Proj. vs. Actual End Diff  : 544 days, 0:00:00
+Projected / Actual Overlap : 4 days
+Misaligned Recn Prediction : 0% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-09-11  @  0
+Projected Recession Start  : 2007-10-09
+Projected Recession End    : 2007-12-11
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 53 days, 0:00:00
+Proj. vs. Actual End Diff  : 538 days, 0:00:00
+Projected / Actual Overlap : 10 days
+Misaligned Recn Prediction : 1% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-10-26  @  0
+Projected Recession Start  : 2007-11-23
+Projected Recession End    : 2008-01-25
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 8 days, 0:00:00
+Proj. vs. Actual End Diff  : 493 days, 0:00:00
+Projected / Actual Overlap : 55 days
+Misaligned Recn Prediction : 10% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-10-30  @  0
+Projected Recession Start  : 2007-11-27
+Projected Recession End    : 2008-01-29
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 4 days, 0:00:00
+Proj. vs. Actual End Diff  : 489 days, 0:00:00
+Projected / Actual Overlap : 59 days
+Misaligned Recn Prediction : 10% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-10-31  @  0
+Projected Recession Start  : 2007-11-28
+Projected Recession End    : 2008-01-30
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 3 days, 0:00:00
+Proj. vs. Actual End Diff  : 488 days, 0:00:00
+Projected / Actual Overlap : 60 days
+Misaligned Recn Prediction : 10% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-01  @  0
+Projected Recession Start  : 2007-11-29
+Projected Recession End    : 2008-01-31
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 2 days, 0:00:00
+Proj. vs. Actual End Diff  : 487 days, 0:00:00
+Projected / Actual Overlap : 61 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-02  @  0
+Projected Recession Start  : 2007-11-30
+Projected Recession End    : 2008-02-01
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : 1 day, 0:00:00
+Proj. vs. Actual End Diff  : 486 days, 0:00:00
+Projected / Actual Overlap : 62 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-05  @  0
+Projected Recession Start  : 2007-12-03
+Projected Recession End    : 2008-02-04
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -2 days, 0:00:00
+Proj. vs. Actual End Diff  : 483 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-06  @  0
+Projected Recession Start  : 2007-12-04
+Projected Recession End    : 2008-02-05
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -3 days, 0:00:00
+Proj. vs. Actual End Diff  : 482 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-07  @  0
+Projected Recession Start  : 2007-12-05
+Projected Recession End    : 2008-02-06
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -4 days, 0:00:00
+Proj. vs. Actual End Diff  : 481 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-08  @  0
+Projected Recession Start  : 2007-12-06
+Projected Recession End    : 2008-02-07
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -5 days, 0:00:00
+Proj. vs. Actual End Diff  : 480 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-09  @  0
+Projected Recession Start  : 2007-12-07
+Projected Recession End    : 2008-02-08
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -6 days, 0:00:00
+Proj. vs. Actual End Diff  : 479 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-13  @  0
+Projected Recession Start  : 2007-12-11
+Projected Recession End    : 2008-02-12
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -10 days, 0:00:00
+Proj. vs. Actual End Diff  : 475 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-14  @  0
+Projected Recession Start  : 2007-12-12
+Projected Recession End    : 2008-02-13
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -11 days, 0:00:00
+Proj. vs. Actual End Diff  : 474 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-15  @  0
+Projected Recession Start  : 2007-12-13
+Projected Recession End    : 2008-02-14
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -12 days, 0:00:00
+Proj. vs. Actual End Diff  : 473 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-16  @  0
+Projected Recession Start  : 2007-12-14
+Projected Recession End    : 2008-02-15
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -13 days, 0:00:00
+Proj. vs. Actual End Diff  : 472 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-19  @  0
+Projected Recession Start  : 2007-12-17
+Projected Recession End    : 2008-02-18
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -16 days, 0:00:00
+Proj. vs. Actual End Diff  : 469 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-20  @  0
+Projected Recession Start  : 2007-12-18
+Projected Recession End    : 2008-02-19
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -17 days, 0:00:00
+Proj. vs. Actual End Diff  : 468 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-21  @  0
+Projected Recession Start  : 2007-12-19
+Projected Recession End    : 2008-02-20
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -18 days, 0:00:00
+Proj. vs. Actual End Diff  : 467 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-23  @  0
+Projected Recession Start  : 2007-12-21
+Projected Recession End    : 2008-02-22
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -20 days, 0:00:00
+Proj. vs. Actual End Diff  : 465 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-26  @  0
+Projected Recession Start  : 2007-12-24
+Projected Recession End    : 2008-02-25
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -23 days, 0:00:00
+Proj. vs. Actual End Diff  : 462 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-27  @  0
+Projected Recession Start  : 2007-12-25
+Projected Recession End    : 2008-02-26
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -24 days, 0:00:00
+Proj. vs. Actual End Diff  : 461 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-28  @  0
+Projected Recession Start  : 2007-12-26
+Projected Recession End    : 2008-02-27
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -25 days, 0:00:00
+Proj. vs. Actual End Diff  : 460 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-29  @  0
+Projected Recession Start  : 2007-12-27
+Projected Recession End    : 2008-02-28
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -26 days, 0:00:00
+Proj. vs. Actual End Diff  : 459 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-11-30  @  0
+Projected Recession Start  : 2007-12-28
+Projected Recession End    : 2008-02-29
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -27 days, 0:00:00
+Proj. vs. Actual End Diff  : 458 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-12-03  @  0
+Projected Recession Start  : 2007-12-31
+Projected Recession End    : 2008-03-03
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -30 days, 0:00:00
+Proj. vs. Actual End Diff  : 455 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-12-04  @  0
+Projected Recession Start  : 2008-01-01
+Projected Recession End    : 2008-03-04
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -31 days, 0:00:00
+Proj. vs. Actual End Diff  : 454 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-12-05  @  0
+Projected Recession Start  : 2008-01-02
+Projected Recession End    : 2008-03-05
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -32 days, 0:00:00
+Proj. vs. Actual End Diff  : 453 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2007-12-12  @  0
+Projected Recession Start  : 2008-01-09
+Projected Recession End    : 2008-03-12
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Close start prediction     : -39 days, 0:00:00
+Proj. vs. Actual End Diff  : 446 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Yield Curve Date           : 2008-01-04  @  0
+Projected Recession Start  : 2008-02-01
+Projected Recession End    : 2008-04-04
+Proj. Recession Duration   : 63 days, 0:00:00
+
+Closest Actual Recession   : Great Recession
+Closest Recession Start    : 2007-12-01
+Closest Recession End      : 2009-06-01
+Great Recession Duration   : 548 days, 0:00:00
+
+Proj. vs. Actual Start Diff: -62 days, 0:00:00
+Proj. vs. Actual End Diff  : 423 days, 0:00:00
+Projected / Actual Overlap : 63 days
+Misaligned Recn Prediction : 11% coverage
+-----------------------------------------------
+
+Correct Predict: 234
+False Positives: 2390
+Accuracy: 9.790794979079498%
